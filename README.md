@@ -424,6 +424,14 @@ Proje Link: [https://github.com/yourusername/AutoPartsStore](https://github.com/
 
 ---
 
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151438.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151223.png" width="auto">
+
+---
+
 <img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20004416.png" width="auto">
 
 ---
@@ -433,14 +441,6 @@ Proje Link: [https://github.com/yourusername/AutoPartsStore](https://github.com/
 ---
 
 <img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151154.png" width="auto">
-
----
-
-<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151438.png" width="auto">
-
----
-
-<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151223.png" width="auto">
 
 ---
 
