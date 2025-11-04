@@ -374,7 +374,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 ### 📞 İletişim
 
-Proje Sahibi - [GitHub Profile]
+Proje Sahibi - Mustafa Ataklı
 
 Proje Link: [https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem](https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem)
 
@@ -836,9 +836,9 @@ This project was developed for educational purposes.
 
 ### 📞 Contact
 
-Project Owner - [GitHub Profile]
+Project Owner - Mustafa Ataklı
 
-Project Link: [https://github.com/yourusername/AutoPartsStore](https://github.com/yourusername/AutoPartsStore)
+Project Link: [https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem](https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem)
 
 ### 📸 Screenshots
 
