@@ -380,17 +380,69 @@ Proje Link: [https://github.com/yourusername/AutoPartsStore](https://github.com/
 
 ### 📸 Ekran Görüntüleri
 
-#### Ana Sayfa
-Modern ve kullanıcı dostu arayüz ile öne çıkan ürünler ve kategoriler.
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151007.png" width="auto">
 
-#### Ürün Detay
-Detaylı ürün bilgileri, resimler, fiyat bilgisi ve müşteri yorumları.
+---
 
-#### Admin Dashboard
-Sade ve profesyonel tasarıma sahip admin paneli ile kolay yönetim.
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-03%20140640.png" width="auto">
 
-#### Sepet ve Ödeme
-Güvenli ve hızlı ödeme süreci.
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-03%20140742.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-03%20140859.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-03%20140918.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-03%20141126.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-03%20141252.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-03%20141210.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20004204.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20004237.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20004258.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20004416.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20004632.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151154.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151438.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem/blob/main/photos/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-04%20151223.png" width="auto">
+
+---
 
 ### 🚀 Gelecek Özellikler
 
