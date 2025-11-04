@@ -376,7 +376,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 Proje Sahibi - [GitHub Profile]
 
-Proje Link: [https://github.com/yourusername/AutoPartsStore](https://github.com/yourusername/AutoPartsStore)
+Proje Link: [https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem](https://github.com/mustafaatakli/ParcaMuhendisi-AutoPartsSystem)
 
 ### 📸 Ekran Görüntüleri
 
