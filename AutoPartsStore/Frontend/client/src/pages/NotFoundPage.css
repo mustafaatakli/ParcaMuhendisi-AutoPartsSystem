@@ -1,0 +1,131 @@
+.not-found-page {
+  min-height: calc(100vh - 200px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 2rem;
+}
+
+.not-found-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  max-width: 1000px;
+  align-items: center;
+}
+
+.not-found-content {
+  text-align: left;
+}
+
+.error-code {
+  font-size: 8rem;
+  font-weight: 900;
+  color: #dc143c;
+  margin: 0;
+  line-height: 1;
+  text-shadow: 4px 4px 0px rgba(220, 20, 60, 0.1);
+}
+
+.error-title {
+  font-size: 2.5rem;
+  color: #333;
+  margin: 1rem 0;
+  font-weight: 700;
+}
+
+.error-message {
+  font-size: 1.125rem;
+  color: #666;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.error-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn-home,
+.btn-products {
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.btn-home {
+  background-color: #dc143c;
+  color: white;
+  box-shadow: 0 4px 12px rgba(220, 20, 60, 0.3);
+}
+
+.btn-home:hover {
+  background-color: #b01030;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(220, 20, 60, 0.4);
+}
+
+.btn-products {
+  background-color: white;
+  color: #dc143c;
+  border: 2px solid #dc143c;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.btn-products:hover {
+  background-color: #dc143c;
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(220, 20, 60, 0.4);
+}
+
+.error-illustration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-illustration svg {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.1));
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .not-found-container {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .not-found-content {
+    text-align: center;
+  }
+
+  .error-code {
+    font-size: 6rem;
+  }
+
+  .error-title {
+    font-size: 2rem;
+  }
+
+  .error-actions {
+    justify-content: center;
+  }
+
+  .error-illustration {
+    order: -1;
+  }
+
+  .error-illustration svg {
+    max-width: 250px;
+  }
+}
